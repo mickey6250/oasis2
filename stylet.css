@@ -1,0 +1,44 @@
+* {
+  margin: 8px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.container {
+  background-color: goldenrod;
+  min-height: auto;
+  border: 10px solid black;
+}
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.top_section {
+  margin-top: 50px;
+  text-align: center;
+}
+.top_section h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: lightblue;
+  padding-top: 0px;
+}
+.top_section h4 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.image_conatiner,
+img {
+  width: 300px;
+  height: 320px;
+}
+#tesla-invention {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+#detail {
+  display: inline-block;
+  padding: 0px;
+  line-height: 1em;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
